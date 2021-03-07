@@ -1,0 +1,25 @@
+.checkbox-area {
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+.page-size {
+  padding-bottom: 10px;
+  text-align: left;
+}
+
+
+.search-area {
+  float: right;
+  text-align: right;
+  width: 22.5%;
+  margin-bottom: 2%;
+}
+
+.actors {
+  padding-right: 2%;
+}
+
+.directors {
+  padding-left: 2%;
+}
